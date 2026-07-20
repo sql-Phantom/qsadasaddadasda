@@ -3,3 +3,4 @@ Aspect:figure
 alice:france
 art:fuck
 Kupo:ros
+Neural:oracle
