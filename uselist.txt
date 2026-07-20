@@ -1,7 +1,1 @@
-#UserList, format login:password
-Aspect:figure
-alice:france
-art:fuck
-Kupo:ros
-Neural:oracle
-xero:kopia
+
