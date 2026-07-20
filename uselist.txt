@@ -1,2 +1,4 @@
 #UserList, format login:password
 Aspect:figure
+alice:france
+art:fuck
