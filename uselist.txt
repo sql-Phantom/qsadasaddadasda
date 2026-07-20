@@ -4,3 +4,4 @@ alice:france
 art:fuck
 Kupo:ros
 Neural:oracle
+xero:kopia
